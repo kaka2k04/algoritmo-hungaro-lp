@@ -1,14 +1,14 @@
-# algoritmo-hungaro-lp
+# Algoritmo Hungaro
 Trabalho de Linguagem de programação
-#INTEGRANTES DO TRABALHO<<br/>:
-Carlos Eduardo de Sousa Gomes
-Kelvin Vinicius
-Thiago da Paz
-#Um pouco sobre o trabalho e seu objetivo do Algoritmo Húngaro
+## INTEGRANTES DO TRABALHO:
+Carlos Eduardo de Sousa Gomes<br>
+Kelvin Vinicius<br>
+Thiago da Paz<br>
+## Um pouco sobre o trabalho e seu objetivo do <b>Algoritmo Húngaro<b>:
 
 O algoritmo busca resolver o problema de atribuição , que consiste em encontrar a melhor maneira de atribuir um conjunto de tarefas a um conjunto de agentes (como trabalhadores, máquinas ou recursos), minimizando os custos ou maximizando a eficiência.
 
-#Propósito e Aplicação
+# Propósito e Aplicação
 
 O principal propósito do algoritmo húngaro é encontrar uma correspondência ótima entre duas partes de um problema, garantindo que a soma dos custos (ou a soma dos lucros, dependendo do contexto) seja minimizada (ou maximizada).
 
@@ -21,9 +21,9 @@ Emparelhamento em machine learning (associação de previsões a dados reais)
 O algoritmo é conhecido por sua eficiência e roda em tempo polinomial, tornando-o adequado para problemas de grande escala.
 
 
-#Exemplo matematico em questão e sua aplicação
+# Exemplo matematico em questão e sua aplicação
 
-#Problema de Atribuição de Tarefas em uma Fábrica
+Problema de Atribuição de Tarefas em uma Fábrica<br>
 
 Uma fábrica moderna deseja melhorar a alocação de suas tarefas aos funcionários, otimizando o desempenho operacional. Cada funcionário possui um nível de habilidade para executar diferentes tarefas, e o objetivo é atribuir as tarefas disponíveis de forma a minimizar o tempo gasto para realizar todas as atividades, respeitando as seguintes condições:
 
