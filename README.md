@@ -1,6 +1,6 @@
 # algoritmo-hungaro-lp
 Trabalho de Linguagem de programação
-#INTEGRANTES DO TRABALHO:
+#INTEGRANTES DO TRABALHO<<br>:
 Carlos Eduardo de Sousa Gomes
 Kelvin Vinicius
 Thiago da Paz
