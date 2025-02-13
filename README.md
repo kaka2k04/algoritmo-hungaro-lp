@@ -1,16 +1,16 @@
-# Algoritmo Hungaro
+# Atribuição de Tarefas
 Trabalho de Linguagem de programação
 ## INTEGRANTES DO TRABALHO:
 Carlos Eduardo de Sousa Gomes<br>
-Kelvin Vinicius<br>
-Thiago da Paz<br>
-## Um pouco sobre o trabalho e seu objetivo do <b>Algoritmo Húngaro<b>:
+Kelvin Vinicius Vieira Santos<br>
+Thiago Henrique Garcia da Paz<br>
+## Um pouco sobre o trabalho e seu objetivo <b>:
 
 O algoritmo busca resolver o problema de atribuição , que consiste em encontrar a melhor maneira de atribuir um conjunto de tarefas a um conjunto de agentes (como trabalhadores, máquinas ou recursos), minimizando os custos ou maximizando a eficiência.
 
 # Propósito e Aplicação
 
-O principal propósito do algoritmo húngaro é encontrar uma correspondência ótima entre duas partes de um problema, garantindo que a soma dos custos (ou a soma dos lucros, dependendo do contexto) seja minimizada (ou maximizada).
+O principal propósito do algoritimo é encontrar uma correspondência ótima entre duas partes de um problema, garantindo que a soma dos custos (ou a soma dos lucros, dependendo do contexto) seja minimizada (ou maximizada).
 
 Ele é amplamente usado em diversas áreas, como:
 
@@ -47,6 +47,13 @@ Matriz de Tempos:
 
 
 Cada valor na matriz representa o tempo que um funcionário leva para completar uma tarefa.
+
+## Requisitos para o codigo
+#### Algoritimo testado em:
+- Windows 11<b>
+### Compilador 
+- Replit
+- Visual Code Studio
 
 
 
